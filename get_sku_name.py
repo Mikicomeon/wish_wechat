@@ -4,7 +4,6 @@ import time
 from public.headers import Headers
 from public.mysqlpooldao import MysqlDao
 
-
 mysql_dao = MysqlDao()
 
 url = {
